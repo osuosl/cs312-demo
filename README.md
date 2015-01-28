@@ -1,4 +1,4 @@
-# CS312 Continuous Integration Demo
+# CS312 Demo Repository
 
-This repo is solely for demonstrating linting with Travis CI, and can
-otherwise be ignored
+This repository is for demonstrations for the Oregon State University
+CS 312 class.
